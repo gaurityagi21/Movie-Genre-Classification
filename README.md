@@ -1,12 +1,12 @@
 # Movie Genre Classification
 
-This project aims to classify movie plots into different genres using machine learning techniques. It involves preprocessing text data, training a Logistic Regression model on TF-IDF features, and evaluating the model's performance.
+This project uses machine learning techniques to classify movie plots into different genres. It involves preprocessing text data, training a Logistic Regression model on TF-IDF features, and evaluating the model's performance.
 
 ## Project Structure
 
 - `genre_classification.ipynb`: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
 - `requirements.txt`: List of dependencies required to run the code.
-- `README.md`: This file, providing an overview of the project.
+- `README.md`: This file, provides an overview of the project.
 
 ## Dataset
 
@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Your Name
 - Email: gaurityagi21@gmail.com
-- LinkedIn: ((https://www.linkedin.com/in/gaurityagi21/))
+- LinkedIn: https://www.linkedin.com/in/gaurityagi21/
 
 Feel free to reach out for any questions, feedback, or collaboration opportunities!
