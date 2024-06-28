@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Your Name
 - Email: gaurityagi21@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/your_profile](https://www.linkedin.com/in/gaurityagi21/))
+- LinkedIn: ((https://www.linkedin.com/in/gaurityagi21/))
 
 Feel free to reach out for any questions, feedback, or collaboration opportunities!
