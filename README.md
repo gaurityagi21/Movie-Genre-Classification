@@ -34,10 +34,6 @@ The dataset used for this project consists of movie plots and their correspondin
 
 The model achieved an accuracy of X% on the test set. For detailed evaluation metrics and performance analysis, refer to `genre_classification.ipynb`.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 - Your Name
